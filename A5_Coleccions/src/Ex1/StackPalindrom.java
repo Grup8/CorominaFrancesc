@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.Stack;
 
 public class StackPalindrom extends Stack<Object> {
-
+//3213213213213211233
 	public static void main(String[] args) {
 		String par = "";
 		Scanner scanner = new Scanner(System.in);
